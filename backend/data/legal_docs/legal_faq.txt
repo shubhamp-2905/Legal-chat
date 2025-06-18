@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Section 2 \u2013 Definitions",
+    "faqs": [
+      {
+        "question": "What are the key definitions in Section 2 of the Income Tax Act?",
+        "paraphrases": [
+          "What terms are defined in Section 2 of the Act?",
+          "Can you explain the important definitions under Section 2?",
+          "What are the essential meanings of terms in Section 2?",
+          "What does Section 2 say about terms like assessee, income, and total income?"
+        ],
+        "answer": "Section 2 defines crucial terms such as assessee, income, assessment year, capital asset, etc., which are foundational for interpreting the rest of the Act."
+      }
+    ]
+  },
+  {
+    "section": "Section 4 \u2013 Charge of Income Tax",
+    "faqs": [
+      {
+        "question": "How is income tax charged according to Section 4?",
+        "paraphrases": [
+          "What does Section 4 say about income tax liability?",
+          "How is tax imposed on income under Section 4?",
+          "What is the rule for charging income tax as per Section 4?",
+          "When is income tax applicable as per the Act?"
+        ],
+        "answer": "Section 4 outlines that income tax is charged on total income for each assessment year at rates specified by the Finance Act, and must be paid via advance tax or TDS where applicable."
+      }
+    ]
+  },
+  {
+    "section": "Section 5 \u2013 Scope of Total Income",
+    "faqs": [
+      {
+        "question": "What income is taxable for residents and non-residents under Section 5?",
+        "paraphrases": [
+          "How does Section 5 define the scope of income for taxation?",
+          "What is taxable for Indian residents and non-residents as per Section 5?",
+          "What incomes fall under tax liability according to Section 5?",
+          "Does Section 5 cover global income for residents?"
+        ],
+        "answer": "Section 5 states that residents are taxed on global income, while non-residents are taxed only on income received or accrued in India."
+      }
+    ]
+  },
+  {
+    "section": "Section 6 \u2013 Residence in India",
+    "faqs": [
+      {
+        "question": "How is residency status determined under Section 6?",
+        "paraphrases": [
+          "What rules does Section 6 provide for determining residency?",
+          "How do you know if someone is a resident or non-resident as per Section 6?",
+          "What criteria define residential status in Section 6?",
+          "Why is residency status important for taxation under Section 6?"
+        ],
+        "answer": "Section 6 defines rules to determine if a person or entity is a resident in India, which impacts their global tax obligations."
+      }
+    ]
+  },
+  {
+    "section": "Section 7 \u2013 Incomes Deemed to be Received",
+    "faqs": [
+      {
+        "question": "What does Section 7 \u2013 Incomes Deemed to be Received cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 7 \u2013 Incomes Deemed to be Received?",
+          "Can you explain the provisions of Section 7 \u2013 Incomes Deemed to be Received?",
+          "What is explained in Section 7 \u2013 Incomes Deemed to be Received of the Income Tax Act?",
+          "How does Section 7 \u2013 Incomes Deemed to be Received affect taxpayers?"
+        ],
+        "answer": "Section 7 \u2013 Incomes Deemed to be Received outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 8 \u2013 Dividend Income",
+    "faqs": [
+      {
+        "question": "What does Section 8 \u2013 Dividend Income cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 8 \u2013 Dividend Income?",
+          "Can you explain the provisions of Section 8 \u2013 Dividend Income?",
+          "What is explained in Section 8 \u2013 Dividend Income of the Income Tax Act?",
+          "How does Section 8 \u2013 Dividend Income affect taxpayers?"
+        ],
+        "answer": "Section 8 \u2013 Dividend Income outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 9 \u2013 Incomes Deemed to Accrue or Arise in India",
+    "faqs": [
+      {
+        "question": "What does Section 9 \u2013 Incomes Deemed to Accrue or Arise in India cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 9 \u2013 Incomes Deemed to Accrue or Arise in India?",
+          "Can you explain the provisions of Section 9 \u2013 Incomes Deemed to Accrue or Arise in India?",
+          "What is explained in Section 9 \u2013 Incomes Deemed to Accrue or Arise in India of the Income Tax Act?",
+          "How does Section 9 \u2013 Incomes Deemed to Accrue or Arise in India affect taxpayers?"
+        ],
+        "answer": "Section 9 \u2013 Incomes Deemed to Accrue or Arise in India outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 10 \u2013 Exemptions",
+    "faqs": [
+      {
+        "question": "What does Section 10 \u2013 Exemptions cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 10 \u2013 Exemptions?",
+          "Can you explain the provisions of Section 10 \u2013 Exemptions?",
+          "What is explained in Section 10 \u2013 Exemptions of the Income Tax Act?",
+          "How does Section 10 \u2013 Exemptions affect taxpayers?"
+        ],
+        "answer": "Section 10 \u2013 Exemptions outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 14 \u2013 Classification of Income",
+    "faqs": [
+      {
+        "question": "What does Section 14 \u2013 Classification of Income cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 14 \u2013 Classification of Income?",
+          "Can you explain the provisions of Section 14 \u2013 Classification of Income?",
+          "What is explained in Section 14 \u2013 Classification of Income of the Income Tax Act?",
+          "How does Section 14 \u2013 Classification of Income affect taxpayers?"
+        ],
+        "answer": "Section 14 \u2013 Classification of Income outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 15 \u2013 Taxability of Salary Income",
+    "faqs": [
+      {
+        "question": "What does Section 15 \u2013 Taxability of Salary Income cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 15 \u2013 Taxability of Salary Income?",
+          "Can you explain the provisions of Section 15 \u2013 Taxability of Salary Income?",
+          "What is explained in Section 15 \u2013 Taxability of Salary Income of the Income Tax Act?",
+          "How does Section 15 \u2013 Taxability of Salary Income affect taxpayers?"
+        ],
+        "answer": "Section 15 \u2013 Taxability of Salary Income outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 16 \u2013 Deductions from Salary Income",
+    "faqs": [
+      {
+        "question": "What does Section 16 \u2013 Deductions from Salary Income cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 16 \u2013 Deductions from Salary Income?",
+          "Can you explain the provisions of Section 16 \u2013 Deductions from Salary Income?",
+          "What is explained in Section 16 \u2013 Deductions from Salary Income of the Income Tax Act?",
+          "How does Section 16 \u2013 Deductions from Salary Income affect taxpayers?"
+        ],
+        "answer": "Section 16 \u2013 Deductions from Salary Income outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary",
+    "faqs": [
+      {
+        "question": "What does Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary?",
+          "Can you explain the provisions of Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary?",
+          "What is explained in Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary of the Income Tax Act?",
+          "How does Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary affect taxpayers?"
+        ],
+        "answer": "Section 17 \u2013 Definitions of Salary, Perquisites, and Profits in Lieu of Salary outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Sections 80C\u201380U \u2013 Deductions under Chapter VI-A",
+    "faqs": [
+      {
+        "question": "What does Sections 80C\u201380U \u2013 Deductions under Chapter VI-A cover?",
+        "paraphrases": [
+          "What is the main purpose of Sections 80C\u201380U \u2013 Deductions under Chapter VI-A?",
+          "Can you explain the provisions of Sections 80C\u201380U \u2013 Deductions under Chapter VI-A?",
+          "What is explained in Sections 80C\u201380U \u2013 Deductions under Chapter VI-A of the Income Tax Act?",
+          "How does Sections 80C\u201380U \u2013 Deductions under Chapter VI-A affect taxpayers?"
+        ],
+        "answer": "Sections 80C\u201380U \u2013 Deductions under Chapter VI-A outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 139 \u2013 Return Filing Requirements",
+    "faqs": [
+      {
+        "question": "What does Section 139 \u2013 Return Filing Requirements cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 139 \u2013 Return Filing Requirements?",
+          "Can you explain the provisions of Section 139 \u2013 Return Filing Requirements?",
+          "What is explained in Section 139 \u2013 Return Filing Requirements of the Income Tax Act?",
+          "How does Section 139 \u2013 Return Filing Requirements affect taxpayers?"
+        ],
+        "answer": "Section 139 \u2013 Return Filing Requirements outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 140 \u2013 Verification of Return",
+    "faqs": [
+      {
+        "question": "What does Section 140 \u2013 Verification of Return cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 140 \u2013 Verification of Return?",
+          "Can you explain the provisions of Section 140 \u2013 Verification of Return?",
+          "What is explained in Section 140 \u2013 Verification of Return of the Income Tax Act?",
+          "How does Section 140 \u2013 Verification of Return affect taxpayers?"
+        ],
+        "answer": "Section 140 \u2013 Verification of Return outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 142 \u2013 Inquiry by Assessing Officer",
+    "faqs": [
+      {
+        "question": "What does Section 142 \u2013 Inquiry by Assessing Officer cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 142 \u2013 Inquiry by Assessing Officer?",
+          "Can you explain the provisions of Section 142 \u2013 Inquiry by Assessing Officer?",
+          "What is explained in Section 142 \u2013 Inquiry by Assessing Officer of the Income Tax Act?",
+          "How does Section 142 \u2013 Inquiry by Assessing Officer affect taxpayers?"
+        ],
+        "answer": "Section 142 \u2013 Inquiry by Assessing Officer outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 143 \u2013 Scrutiny Assessment",
+    "faqs": [
+      {
+        "question": "What does Section 143 \u2013 Scrutiny Assessment cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 143 \u2013 Scrutiny Assessment?",
+          "Can you explain the provisions of Section 143 \u2013 Scrutiny Assessment?",
+          "What is explained in Section 143 \u2013 Scrutiny Assessment of the Income Tax Act?",
+          "How does Section 143 \u2013 Scrutiny Assessment affect taxpayers?"
+        ],
+        "answer": "Section 143 \u2013 Scrutiny Assessment outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 144 \u2013 Best Judgment Assessment",
+    "faqs": [
+      {
+        "question": "What does Section 144 \u2013 Best Judgment Assessment cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 144 \u2013 Best Judgment Assessment?",
+          "Can you explain the provisions of Section 144 \u2013 Best Judgment Assessment?",
+          "What is explained in Section 144 \u2013 Best Judgment Assessment of the Income Tax Act?",
+          "How does Section 144 \u2013 Best Judgment Assessment affect taxpayers?"
+        ],
+        "answer": "Section 144 \u2013 Best Judgment Assessment outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 147 \u2013 Reassessment for Escaped Income",
+    "faqs": [
+      {
+        "question": "What does Section 147 \u2013 Reassessment for Escaped Income cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 147 \u2013 Reassessment for Escaped Income?",
+          "Can you explain the provisions of Section 147 \u2013 Reassessment for Escaped Income?",
+          "What is explained in Section 147 \u2013 Reassessment for Escaped Income of the Income Tax Act?",
+          "How does Section 147 \u2013 Reassessment for Escaped Income affect taxpayers?"
+        ],
+        "answer": "Section 147 \u2013 Reassessment for Escaped Income outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 148 \u2013 Notice for Reassessment",
+    "faqs": [
+      {
+        "question": "What does Section 148 \u2013 Notice for Reassessment cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 148 \u2013 Notice for Reassessment?",
+          "Can you explain the provisions of Section 148 \u2013 Notice for Reassessment?",
+          "What is explained in Section 148 \u2013 Notice for Reassessment of the Income Tax Act?",
+          "How does Section 148 \u2013 Notice for Reassessment affect taxpayers?"
+        ],
+        "answer": "Section 148 \u2013 Notice for Reassessment outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  },
+  {
+    "section": "Section 194 \u2013 TDS on Dividends",
+    "faqs": [
+      {
+        "question": "What does Section 194 \u2013 TDS on Dividends cover?",
+        "paraphrases": [
+          "What is the main purpose of Section 194 \u2013 TDS on Dividends?",
+          "Can you explain the provisions of Section 194 \u2013 TDS on Dividends?",
+          "What is explained in Section 194 \u2013 TDS on Dividends of the Income Tax Act?",
+          "How does Section 194 \u2013 TDS on Dividends affect taxpayers?"
+        ],
+        "answer": "Section 194 \u2013 TDS on Dividends outlines specific provisions related to its heading, such as tax deductions, exemptions, compliance, or penalties. It is important for understanding relevant legal obligations or benefits under that category."
+      }
+    ]
+  }
+]
